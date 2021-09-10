@@ -1,0 +1,13 @@
+![第八章题目](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter8/08ti.jpg)
+## 解答
+- 题[8-1](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter8/8-1.cpp)
+- 题[8-2](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter8/8-2.cpp)
+- 题[8-3](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter8/8-3.cpp)
+- 题[8-4](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter8/8-4.cpp)
+- 题[8-5](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter8/8-5.cpp)
+- 题[8-6](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter8/8-6.cpp)
+- 题[8-7](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter8/8-7.cpp)
+- 题[8-8](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter8/8-8.cpp)
+- 题[8-9](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter8/8-9.cpp)
+- 题[8-10](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter8/8-10.cpp)
+- 题[8-11](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter8/8-11.cpp)
