@@ -1,0 +1,11 @@
+![第十章题目](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter10/10ti1.jpg)
+![第十章题目](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter10/10ti2.jpg)
+## 解答
+- 题[10-1](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter10/10-1.cpp)
+- 题[10-2](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter10/10-2.cpp)
+- 题[10-3](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter10/10-3.cpp)
+- 题[10-4](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter10/10-4.cpp)
+- 题[10-5](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter10/10-5.cpp)
+- 题[10-6](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter10/10-6.cpp)
+- 题[10-7](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter10/10-7.cpp)
+- 题[10-8](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter10/10-8.cpp)
