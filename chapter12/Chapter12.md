@@ -1,0 +1,10 @@
+![第十二章题目](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter12/12ti.jpg)
+## 解答
+- 题[12-1](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter12/12-1.cpp)
+- 题[12-2](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter12/12-2.cpp)
+- 题[12-3](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter12/12-3.cpp)
+- 题[12-4](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter12/12-4.cpp)
+- 题[12-5](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter12/12-5.cpp)
+- 题[12-6](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter12/12-6.cpp)
+- 题[12-7](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter12/12-7.cpp)
+- 题[12-8](https://github.com/wangxb96/C_Language_Programming/blob/master/chapter12/12-8.cpp)
